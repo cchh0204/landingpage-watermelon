@@ -1,2 +1,0 @@
-# landingpage-watermelon
-landingpage-watermelon
